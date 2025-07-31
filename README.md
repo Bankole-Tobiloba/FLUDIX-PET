@@ -82,7 +82,7 @@ Building FLUDIX taught us real-world systems integration, human-centered medical
 
 ## Resources & Build Guides
 
-You’ll find all schematics, source code, diagrams, and component sourcing links in the `/resources` folder.
+You’ll find all schematics, source code, diagrams, and component sourcing links in the [resources folder](./resources).
 
 ## Contact Us
 
