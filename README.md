@@ -2,7 +2,7 @@
 
 *FLUDIX* is a cutting-edge automated infusion pump designed to revolutionize IV fluid therapy by integrating real-time monitoring, automation, and precision delivery. The system uses a custom-built infusion unit paired with a wearable Vital Band to monitor critical patient vitals and adjust fluid flow in real time minimizing human error and saving lives.
 
-![FLUDIX](images/Fludix3D.png)
+![FLUDIX](images/Fludix3D.jpg)
 
 **Team Members:**
 - **Tobiloba Bankole** – Embedded Systems, Firmware, Hardware Integration  
